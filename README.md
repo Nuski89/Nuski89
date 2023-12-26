@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuski89&label=Profile%20views&color=0e75b6&style=flat" alt="nuski89" /> </p>
 
+- 🔭  I’m currently working React, Laravel, Jquery
 - 🔭 I’m currently working on Sports complex [Axion Sports](https://axion.lk)
 
 - 👯 I’m looking to collaborate on restaurants system [Hellofood System](https://github.com/Nuski89/hellofood)
